@@ -1,1 +1,1 @@
-# Prodigy_FSD_Task_05
+# Social-media-platform
